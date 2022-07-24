@@ -1,0 +1,9 @@
+store all fonts here that are being used and/or were provided.
+
+each font should have the font file (.otf, .ttf, PostScript)
+along with licences for each (typically when paid for)
+and any third party vendor contact and login and account info
+
+Even if you are using a Google font, these libraries are constantly 
+updated. 
+* keep a safe copy here just in case.

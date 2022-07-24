@@ -1,0 +1,28 @@
+divide the website by sections using reference numbers:
+
+00_header  — This element provides introductory content for a section
+           article, or entire web page.
+01_nav — Navigation menu links would all be placed in a <nav> tag.
+
+03_hero — Establishes the brand value and experience with an image or video)
+
+04_main — The body of a page should go in the <main> tag. 
+          There should be only one per page.
+
+05_article — This element represents an independent article on a web page. 
+             For example, a blog post.
+
+06_section — The <section> element is a way of grouping together 
+             nearby content of a similar theme.
+
+07_aside> — This element represents content that’s less important. 
+            It’s mostly used for sidebars.
+
+08_footer> — The <footer> element is at the base of a page or section.
+	     It might include contact information and some site navigation.
+
+Ex: 
+
+"01_rounded_blues_pallete.html" is a navigation with a specific style and pallete
+
+"00_cactuses_more.html" displays a 5sec. video that you can click to start shopping. 

@@ -1,0 +1,9 @@
+this is where you put the Branding Guide:
+
+1. Logo and logo guide.
+2. Core color palette.
+3. Typography.
+4. Imagery.
+5. Voice.
+
+see: https://clickdimensions.com/marketing/5-essential-elements-of-a-brand-style-guide/

@@ -1,0 +1,5 @@
+here you store all the highest quality logos you will be using. 
+
+keep the highest resolution images here to scale down when required.
+Aim to make and keep all final logos as a vector for upsizing. 
+scrambling to find clients previous logos can be challenging, this stops that

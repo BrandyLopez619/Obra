@@ -1,0 +1,31 @@
+this folder will vary as with any website but depending on the service they offer
+but it is essentially the structure of the website by the names of specific pages.
+
+Working with a client:
+
+90% of the time the client has a gmail account and can use google drive:
+
+0. make a folder using "Client 1\project_name_1\05. Content" stucture on google drive
+
+1. select all the folders within the "Client 1\project_name_1\05. Content" folder
+
+2. upload them to google drive (or drop box) 
+	
+* this makes it very easy for a client to provide necessary files
+
+tips:
+
+create a simple userguide directing clients to upload most usable and convenient files:
+     When uploading files please remember:
+	- avoid using PDF's
+  	- do not embedd images into text files (word, pdf, indesign)
+	- for written content use only .txt files
+	- ensure all final image quality, no pixelation visible
+	- for vector images (logos, illustrations, custom lettering)
+	  please provide separate vector document (.eps, .ai, .svg)
+
+
+
+
+  
+
