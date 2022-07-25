@@ -1,2 +1,2 @@
 # Obra manufacturing.
-small website for a local design/build studio.
+Description: A small mobile-first website for a local design/build studio.
